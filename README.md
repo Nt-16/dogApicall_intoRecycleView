@@ -37,7 +37,8 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<>
+![Kapture 2023-04-07 at 16 31 15](https://user-images.githubusercontent.com/53006609/230675147-fa6cac62-ba1f-4103-9883-e483cb9e0d1c.gif)
+
 
 GIF created with **KAP**
 
