@@ -8,7 +8,7 @@ Time spent: **7** hours spent in total
 
 ## Summary
 
-**Afghan hound** is an android app that ** that displays a scrollable list of dog images of Afghan hound breed from the Dog API**
+**Afghan hound** is an android app that that displays a scrollable list of dog images of Afghan hound breed from the Dog API
 
 If I had to describe this project in three (3) emojis, they would be: **🐶🥹😎**
 
