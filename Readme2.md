@@ -29,15 +29,13 @@ The following STRETCH features are implemented:
 - [x] Update the night theme to use different versions of styles when in dark mode
 - [ ] Use different drawables when in dark mode
 
-The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<![Kapture 2023-04-14 at 00 01 29](https://user-images.githubusercontent.com/53006609/231938556-b732349a-2048-4fe4-93fa-2cb478c3b2da.gif)>
+![Kapture 2023-04-14 at 00 01 29](https://user-images.githubusercontent.com/53006609/231938556-b732349a-2048-4fe4-93fa-2cb478c3b2da.gif)
 
 GIF created with **Kap**
 
